@@ -6,3 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 26 November 2026
+### Added
+- Initial release: Brazil (BR) address support for the Loki Checkout
+- Brazilian address labels for billing and shipping (Street, Number, Complement, Neighborhood, State)
+- Postcode placeholder and input mask (99999-999) for Brazilian addresses
+- Brazil-specific grid layout, with Number and Complement fields side by side
+
